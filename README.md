@@ -1,0 +1,2 @@
+# promtail-playground
+promtail-playground
